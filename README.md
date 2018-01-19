@@ -1,9 +1,9 @@
 # elm-reason-react-ts-js
-An example of a setup to use co-existing elm, reason, react, typescript and javascript
+An example of a setup to use co-existing [Elm](http://elm-lang.org), [Reason](https://reasonml.github.io), [React](https://reactjs.org), [Typescript](https://www.typescriptlang.org) and [Javascript](https://developer.mozilla.org/ko/docs/Web/JavaScript)
 
 # Why
 - I like them with each different reasons
-- I never was satisfied with using just one of them
+- I never was completely satisfied with using just one of them
 - It would be really nice to have an template/example to have the simplest setup possible to use all of them smoothly.
 
 # Front-end
